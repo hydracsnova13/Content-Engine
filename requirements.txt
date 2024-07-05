@@ -1,0 +1,11 @@
+pypdf
+langchain
+chromadb 
+pytest
+boto3
+streamlit 
+aiohttp
+nltk
+tiktoken
+transformers
+torch
