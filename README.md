@@ -15,4 +15,5 @@
 
 - After you verify your models, its time to launch the server by using the command: "ollama serve"
 
-- 
+- Now that the server is running, we can start with our code
+   - clone my repository into your local system using "git clone "
