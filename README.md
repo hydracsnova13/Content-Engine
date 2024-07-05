@@ -1,6 +1,7 @@
 # Content-Engine
 
-- This repository contains the code to run your own custom content engine, 
+- This repository contains the code to run your own custom content engine, please follow the instructions given below strictly in order to get smooth operation of the software:
+   
 - First make sure you have the ollama installed from the link https://ollama.com/download/windows
 
 - After installation of ollama, for this project we have to install 2 models on the ollama server, the enbedding model "nomic-embed-text" and the LLM "mistral" 
